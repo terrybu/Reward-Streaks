@@ -6,6 +6,6 @@ target 'Reward Streaks' do
   use_frameworks!
 
   pod 'GoogleAPIClientForREST/Sheets', '~> 1.2.1'
-  pod 'GoogleSignIn', '~> 4.1.1'
+  pod 'Google/SignIn' 
 
 end
