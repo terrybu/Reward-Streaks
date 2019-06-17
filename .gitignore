@@ -1,3 +1,5 @@
 *.pbxproj
+*.xcworkspacedata
+
 Podfile.lock
 Pods/
